@@ -6,5 +6,5 @@ class Solution(object):
                     .lower().split() if word not in banned]
         counts = collections.Counter(words)
 
-        return counts.most_common(2)[0][0]
+        return counts.most_common(1)[0][0]
         
