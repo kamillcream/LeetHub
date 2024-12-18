@@ -1,6 +1,8 @@
 from collections import deque
 class Solution(object):
     def isPalindrome(self, x):
+        if x < 0:
+            return False
         # 숫자를 문자열로 변환하여 리스트로 만든다
         x = str(x)
         
