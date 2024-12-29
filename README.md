@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jinyoun9/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
@@ -52,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jinyoun9/LeetHub/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jinyoun9/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 ## Dynamic Programming
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 ## Counting Sort
 |  |
 | ------- |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
