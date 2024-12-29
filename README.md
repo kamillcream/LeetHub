@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jinyoun9/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jinyoun9/LeetHub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jinyoun9/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/Jinyoun9/LeetHub/tree/master/0077-combinations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
