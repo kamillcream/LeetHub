@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Memoization
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jinyoun9/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jinyoun9/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
 ## Queue
@@ -185,4 +187,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Jinyoun9/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
