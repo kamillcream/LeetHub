@@ -7,6 +7,7 @@ class KthLargest(object):
         for i in range(len(nums)):
             heapq.heappush(self.res, nums[i])
             if len(self.res) > self.len:
+                # 항상 앞에서 pop
                 heapq.heappop(self.res)
 
         
