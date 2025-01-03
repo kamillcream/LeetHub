@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jinyoun9/LeetHub/tree/master/0344-reverse-string) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
+| [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Memoization
 |  |
 | ------- |
