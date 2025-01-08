@@ -1,17 +1,16 @@
 class Solution(object):
     def combinationSum(self, candidates, target):
-        def dfs(index, current, total):
-            if total == target:
-                result.append(list(current))
+        res = []
+
+        def dfs(csum, index, path):
+            if csum < 0:
                 return
-            
-            if total > target:
+            if csum == 0:
+                res.append(path)
                 return
-            
             for i in range(index, len(candidates)):
-                current.append(candidates[i])
-                dfs(i, current, total + candidates[i])
-                current.pop() # 백트래킹
-        result = []
-        dfs(0,[],0)
-        return result
+                dfs(csum - candidates[i], i, path + [candidates[i]])
+
+        dfs (target, 0, [])
+        return res
+        
