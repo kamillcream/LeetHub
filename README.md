@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jinyoun9/LeetHub/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jinyoun9/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jinyoun9/LeetHub/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Jinyoun9/LeetHub/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 ## Binary Indexed Tree
 |  |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
