@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
+| [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
