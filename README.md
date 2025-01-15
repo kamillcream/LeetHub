@@ -155,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jinyoun9/LeetHub/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jinyoun9/LeetHub/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Memoization
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jinyoun9/LeetHub/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Jinyoun9/LeetHub/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jinyoun9/LeetHub/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
