@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/kamillcream/LeetHub/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamillcream/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kamillcream/LeetHub/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamillcream/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/kamillcream/LeetHub/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamillcream/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/kamillcream/LeetHub/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamillcream/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
