@@ -14,4 +14,3 @@ class Solution(object):
 
         dfs(0, root)
         return self.res
-
