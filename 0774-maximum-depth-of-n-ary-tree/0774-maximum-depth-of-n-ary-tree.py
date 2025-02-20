@@ -3,18 +3,9 @@ class Solution(object):
         if not root:
             return 0
 
-        self.res = 0
-
-        def dfs(cur_depth, node):
-            if not node:
-                return 
-
+        def dfs(node):
             if not node.children:
-                self.res = max(self.res, cur_depth)
+                return 1
+            return 1 + max(dfs(child) for child in node.children)
 
-            for i in node.children:
-                dfs(cur_depth+1, i)
-
-        dfs(1, root)
-        return self.res
-        
+        return dfs(root)
