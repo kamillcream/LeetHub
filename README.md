@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/kamillcream/LeetHub/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/kamillcream/LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kamillcream/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/kamillcream/LeetHub/tree/master/0975-range-sum-of-bst) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/kamillcream/LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kamillcream/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kamillcream/LeetHub/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/kamillcream/LeetHub/tree/master/0687-longest-univalue-path) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/kamillcream/LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kamillcream/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/kamillcream/LeetHub/tree/master/0975-range-sum-of-bst) |
