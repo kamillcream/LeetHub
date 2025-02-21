@@ -14,6 +14,6 @@ class Solution(object):
                     if n == 0: # 필요한 만큼 심었으면 종료
                         return True
             
-        return n == 0
+        return False
             
         
