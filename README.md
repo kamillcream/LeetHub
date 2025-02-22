@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
+| [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kamillcream/LeetHub/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Counting Sort
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jinyoun9/LeetHub/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
