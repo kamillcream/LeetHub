@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 ## Counting Sort
 |  |
