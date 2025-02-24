@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jinyoun9/LeetHub/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jinyoun9/LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jinyoun9/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jinyoun9/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamillcream/LeetHub/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kamillcream/LeetHub/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
