@@ -1,13 +1,11 @@
 class Solution(object):
     def balancedStringSplit(self, s):
-        sub = []
+        cnt = 0
         res = 0
 
         for i in s:
-            sub.append(i)
-            if sub.count('L') == sub.count('R'):
+            cnt += 1 if i == 'L' else -1
+            if cnt == 0:
                 res += 1
-                sub = []
-        
         return res
         
