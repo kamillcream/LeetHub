@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/kamillcream/LeetHub/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kamillcream/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/kamillcream/LeetHub/tree/master/1448-maximum-69-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Counting Sort
 |  |
 | ------- |
