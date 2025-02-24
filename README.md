@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/kamillcream/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/kamillcream/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/kamillcream/LeetHub/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/Jinyoun9/LeetHub/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/kamillcream/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Counting Sort
 |  |
 | ------- |
