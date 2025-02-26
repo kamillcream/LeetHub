@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jinyoun9/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kamillcream/LeetHub/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jinyoun9/LeetHub/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jinyoun9/LeetHub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jinyoun9/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/kamillcream/LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
