@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jinyoun9/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0330-patching-array](https://github.com/kamillcream/LeetHub/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kamillcream/LeetHub/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [0330-patching-array](https://github.com/kamillcream/LeetHub/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kamillcream/LeetHub/tree/master/0605-can-place-flowers) |
