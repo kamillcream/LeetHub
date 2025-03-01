@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jinyoun9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/kamillcream/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jinyoun9/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamillcream/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 | [1081-video-stitching](https://github.com/kamillcream/LeetHub/tree/master/1081-video-stitching) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jinyoun9/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Jinyoun9/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jinyoun9/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jinyoun9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jinyoun9/LeetHub/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
