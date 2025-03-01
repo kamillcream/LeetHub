@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kamillcream/LeetHub/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/kamillcream/LeetHub/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 ## Topological Sort
 |  |
