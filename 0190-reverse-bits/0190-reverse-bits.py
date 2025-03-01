@@ -1,8 +1,8 @@
 class Solution:
-    def reverseBits(self, n):
-        n = (n >> 16) | (n << 16)  
-        n = ((n & 0xFF00FF00) >> 8) | ((n & 0x00FF00FF) << 8)  
-        n = ((n & 0xF0F0F0F0) >> 4) | ((n & 0x0F0F0F0F) << 4)  
-        n = ((n & 0xCCCCCCCC) >> 2) | ((n & 0x33333333) << 2)  
-        n = ((n & 0xAAAAAAAA) >> 1) | ((n & 0x55555555) << 1)  
-        return n
+    def reverseBits(self, n, bits=32):
+        if bits == 1:
+            return n
+        
+        left = n >> (bits // 2) # 왼쪽 추출, bits // 2만큼 오른쪽으로 이동하므로 오른쪽 절반이 사라짐.
+        right = n & ((1 << (bits // 2)) - 1) # 오른쪽 추출, 해당 길이만큼 1을 생성 후 -1을 하면 모든 비트가 1이
+        return (self.reverseBits(right, bits // 2) << (bits // 2) | self.reverseBits(left, bits // 2))
