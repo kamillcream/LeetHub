@@ -1,19 +1,29 @@
 class Solution(object):
     def numIslands(self, grid):
-        def dfs(i,j):
-            if i < 0 or i>=len(grid) or j < 0 or j>=len(grid[0]) or grid[i][j] != '1':
-                return
-            grid[i][j] = 0
-            dfs(i+1, j)
-            dfs(i-1, j)
-            dfs(i, j+1)
-            dfs(i, j-1)
+        if not grid:
+            return 0
+        
+        rows, cols = len(grid), len(grid[0])
+        directions = [(1,0), (-1,0), (0,1), (0, -1)]
+        cnt = 0
 
-        count = 0
-        for i in range(len(grid)):
-                for j in range(len(grid[0])):
-                    if grid[i][j] == '1':
-                        dfs(i, j)
-                        count += 1
+        def bfs(i, j):
+            queue = collections.deque([(i,j)])
+            grid[i][j] = '0'
 
-        return count
+            while queue:
+                x, y = queue.popleft()
+                for dx, dy in directions:
+                    nX = x + dx
+                    nY = y + dy
+                    if 0 <= nX < rows and 0 <= nY < cols and grid[nX][nY] == '1':
+                        grid[nX][nY] = '0'
+                        queue.append((nX, nY))
+
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == '1':
+                    bfs(i, j)
+                    cnt += 1
+
+        return cnt
