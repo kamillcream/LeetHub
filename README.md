@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kamillcream/LeetHub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jinyoun9/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/kamillcream/LeetHub/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jinyoun9/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jinyoun9/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
 ## Tree
@@ -476,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/kamillcream/LeetHub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
