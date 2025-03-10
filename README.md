@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/kamillcream/LeetHub/tree/master/0278-first-bad-version) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -497,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kamillcream/LeetHub/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kamillcream/LeetHub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
