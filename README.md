@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jinyoun9/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kamillcream/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jinyoun9/LeetHub/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/kamillcream/LeetHub/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Jinyoun9/LeetHub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jinyoun9/LeetHub/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jinyoun9/LeetHub/tree/master/0042-trapping-rain-water) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kamillcream/LeetHub/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
