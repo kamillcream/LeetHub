@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/kamillcream/LeetHub/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/kamillcream/LeetHub/tree/master/1081-video-stitching) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kamillcream/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Sorting
 |  |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kamillcream/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/kamillcream/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kamillcream/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kamillcream/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
 | ------- |
