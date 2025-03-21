@@ -5,7 +5,7 @@ class Solution(object):
 
         res = []
         queue = deque([root])
-        cnt = 1
+        is_zigzag = False
 
         while queue:
             lvl_size = len(queue)
@@ -13,7 +13,7 @@ class Solution(object):
 
             for _ in range(lvl_size):
                 node = queue.popleft()
-                if cnt % 2 == 0:
+                if is_zigzag:
                     lvl_nodes.insert(0, node.val)
                 else:
                     lvl_nodes.append(node.val)
@@ -24,7 +24,7 @@ class Solution(object):
                     queue.append(node.right)
                 
                 
-            cnt += 1
+            is_zigzag = not is_zigzag
             res.append(lvl_nodes)
 
         return res        
