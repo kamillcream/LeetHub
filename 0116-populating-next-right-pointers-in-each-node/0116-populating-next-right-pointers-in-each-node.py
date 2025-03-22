@@ -3,20 +3,23 @@ class Solution(object):
         if not root:
             return None
 
-        leftmost = root
+        queue = deque([root])
 
-        while leftmost.left:
-            head = leftmost
-            while head:
-                # 왼쪽 자식 → 오른쪽 자식
-                head.left.next = head.right
+        while queue:
+            lvl_size = len(queue)
+            prev = None
+            for _ in range(lvl_size):
+                node = queue.popleft()
+                if prev:
+                    prev.next = node
+                prev = node
+            
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
 
-                # 오른쪽 자식 → 옆 노드의 왼쪽 자식
-                if head.next:
-                    head.right.next = head.next.left
-
-                head = head.next  # 다음 노드로 이동
-
-            leftmost = leftmost.left  # 다음 레벨로 이동
 
         return root
+        
+        
