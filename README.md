@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jinyoun9/LeetHub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kamillcream/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/kamillcream/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kamillcream/LeetHub/tree/master/0310-minimum-height-trees) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kamillcream/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kamillcream/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/kamillcream/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kamillcream/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/kamillcream/LeetHub/tree/master/0278-first-bad-version) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kamillcream/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kamillcream/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kamillcream/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/kamillcream/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kamillcream/LeetHub/tree/master/0404-sum-of-left-leaves) |
