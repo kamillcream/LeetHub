@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kamillcream/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kamillcream/LeetHub/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jinyoun9/LeetHub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Jinyoun9/LeetHub/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kamillcream/LeetHub/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
