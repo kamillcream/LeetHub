@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Jinyoun9/LeetHub/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kamillcream/LeetHub/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kamillcream/LeetHub/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kamillcream/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kamillcream/LeetHub/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kamillcream/LeetHub/tree/master/0409-longest-palindrome) |
 | [0508-most-frequent-subtree-sum](https://github.com/kamillcream/LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/kamillcream/LeetHub/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
