@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jinyoun9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/kamillcream/LeetHub/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kamillcream/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kamillcream/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kamillcream/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kamillcream/LeetHub/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kamillcream/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Jinyoun9/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kamillcream/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamillcream/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kamillcream/LeetHub/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kamillcream/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jinyoun9/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/kamillcream/LeetHub/tree/master/0409-longest-palindrome) |
 | [0508-most-frequent-subtree-sum](https://github.com/kamillcream/LeetHub/tree/master/0508-most-frequent-subtree-sum) |
