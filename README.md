@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kamillcream/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kamillcream/LeetHub/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/kamillcream/LeetHub/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kamillcream/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jinyoun9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jinyoun9/LeetHub/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/kamillcream/LeetHub/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kamillcream/LeetHub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kamillcream/LeetHub/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
