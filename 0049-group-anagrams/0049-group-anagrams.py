@@ -1,11 +1,12 @@
-import collections as c
-
 class Solution(object):
     def groupAnagrams(self, strs):
-        anagrams = c.defaultdict(list)
+        import collections as c
 
-        for word in strs:
-            anagrams[''.join(sorted(word))].append(word)
-        
-        return list(anagrams.values())
-        
+        res = c.defaultdict(list)
+
+        for s in strs:
+            res[''.join(sorted(s))].append(s)
+
+        return list(res.values())
+
+
