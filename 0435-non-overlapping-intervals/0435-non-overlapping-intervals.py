@@ -20,6 +20,6 @@ class Solution(object):
             self.end = e
 
     def in_range(self, s, e):
-        return s < self.end and e > self.start
+        return s < self.end 
 
         
