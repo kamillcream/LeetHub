@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kamillcream/LeetHub/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kamillcream/LeetHub/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamillcream/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/kamillcream/LeetHub/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 | [1081-video-stitching](https://github.com/kamillcream/LeetHub/tree/master/1081-video-stitching) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kamillcream/LeetHub/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
