@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jinyoun9/LeetHub/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kamillcream/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/kamillcream/LeetHub/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 ## String
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/kamillcream/LeetHub/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/kamillcream/LeetHub/tree/master/0917-boats-to-save-people) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Jinyoun9/LeetHub/tree/master/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/kamillcream/LeetHub/tree/master/0917-boats-to-save-people) |
 | [0974-reorder-data-in-log-files](https://github.com/Jinyoun9/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kamillcream/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
+| [0917-boats-to-save-people](https://github.com/kamillcream/LeetHub/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/kamillcream/LeetHub/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/kamillcream/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kamillcream/LeetHub/tree/master/1047-maximize-sum-of-array-after-k-negations) |
