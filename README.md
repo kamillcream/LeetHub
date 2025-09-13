@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/kamillcream/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/Jinyoun9/LeetHub/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Jinyoun9/LeetHub/tree/master/0860-design-circular-queue) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kamillcream/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kamillcream/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/kamillcream/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kamillcream/LeetHub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Jinyoun9/LeetHub/tree/master/1013-fibonacci-number) |
 | [1081-video-stitching](https://github.com/kamillcream/LeetHub/tree/master/1081-video-stitching) |
