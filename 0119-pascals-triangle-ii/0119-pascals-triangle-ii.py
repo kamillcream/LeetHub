@@ -1,8 +1,24 @@
 class Solution(object):
     def getRow(self, rowIndex):
-        dp = [0] * (rowIndex + 1)
-        dp[0] = 1
-        for i in range(1, rowIndex + 1):
-            for j in range(i, 0, -1):   # 역순 업데이트가 핵심
-                dp[j] += dp[j-1]
+        if rowIndex == 0:
+            return [1]
+
+        if rowIndex == 1:
+            return [1,1]
+
+        dp = [1,1] + [0] * (rowIndex - 2 + 1)
+        for i in range(2, rowIndex+1):
+            for j in range(i, -1, -1):
+                if j == i or j == 0: 
+                    dp[j] = 1
+                else:
+                    dp[j] += dp[j-1]
+
+        
         return dp
+
+
+
+        return dp[rowIndex] 
+
+        
