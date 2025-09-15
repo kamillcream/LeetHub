@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kamillcream/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kamillcream/LeetHub/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/kamillcream/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kamillcream/LeetHub/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jinyoun9/LeetHub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kamillcream/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kamillcream/LeetHub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kamillcream/LeetHub/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/kamillcream/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kamillcream/LeetHub/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kamillcream/LeetHub/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/kamillcream/LeetHub/tree/master/0096-unique-binary-search-trees) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kamillcream/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Jinyoun9/LeetHub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jinyoun9/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kamillcream/LeetHub/tree/master/0463-island-perimeter) |
