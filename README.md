@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/kamillcream/LeetHub/tree/master/1081-video-stitching) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kamillcream/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1470-shuffle-the-array](https://github.com/kamillcream/LeetHub/tree/master/1470-shuffle-the-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
 ## Sorting
