@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kamillcream/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kamillcream/LeetHub/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kamillcream/LeetHub/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/kamillcream/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Jinyoun9/LeetHub/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kamillcream/LeetHub/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kamillcream/LeetHub/tree/master/0611-valid-triangle-number) |
