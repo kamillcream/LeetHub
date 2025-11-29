@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kamillcream/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -657,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kamillcream/LeetHub/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
