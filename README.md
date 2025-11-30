@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kamillcream/LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kamillcream/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamillcream/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/kamillcream/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kamillcream/LeetHub/tree/master/1470-shuffle-the-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Jinyoun9/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/kamillcream/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -669,5 +671,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/kamillcream/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
