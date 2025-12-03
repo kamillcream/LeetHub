@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamillcream/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kamillcream/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kamillcream/LeetHub/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamillcream/LeetHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/kamillcream/LeetHub/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/kamillcream/LeetHub/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/kamillcream/LeetHub/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kamillcream/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamillcream/LeetHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jinyoun9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jinyoun9/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamillcream/LeetHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
