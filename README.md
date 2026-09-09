@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jinyoun9/LeetHub/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/kamillcream/LeetHub/tree/master/0636-exclusive-time-of-functions) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kamillcream/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/kamillcream/LeetHub/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Jinyoun9/LeetHub/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kamillcream/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Jinyoun9/LeetHub/tree/master/0837-most-common-word) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/kamillcream/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kamillcream/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/kamillcream/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/kamillcream/LeetHub/tree/master/0704-binary-search) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Jinyoun9/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kamillcream/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/kamillcream/LeetHub/tree/master/0907-koko-eating-bananas) |
